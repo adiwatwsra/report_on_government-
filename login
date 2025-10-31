@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> ระบบรายงานไปราชการ</title>
+<title>ระบบรายงานไปราชการ</title>
 <base target="_top">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
-
-<div align="center">
+<body> <div align="center">
 <iframe src="https://script.google.com/macros/s/AKfycbyENpzzzjn8OTdU_yOZVUXg3y6-Tciqx1fQN4wQMXa2cW5ixx22xjlcbSpQ-avIfkm_SQ/exec" 
-
 style="
     position: fixed;
     top: 0px;
@@ -22,8 +20,5 @@ style="
     overflow: hidden;
     z-index: 999999;
     height: 100%;
-  "></iframe>
-
-<div>
-</body>
-</html>
+"></iframe>
+</div> </body> </html>
